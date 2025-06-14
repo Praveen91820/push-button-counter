@@ -1,1 +1,7 @@
 # push-button-counter
+COMPANY : CODETECH IT SOLUTIONS
+NAME : LANKI PRAVEEN KUMAR
+INTERN ID : CTO4DF1781
+DOMAIN : Embedded systems
+DURATION : 4 WEEKS
+MENTOR : neela santosh kumar
